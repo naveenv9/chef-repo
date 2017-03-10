@@ -1,0 +1,1 @@
+Chef::Log.info("I am in file my_newfile")
